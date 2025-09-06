@@ -1,5 +1,5 @@
 # Professional backend project setup
-- Mongodb Database usename: sazzad, password: sazzad123
+- Mongodb Database 
 ## devDependencies install:
 - npm i -D nodemon
 - npm i -D prettier
